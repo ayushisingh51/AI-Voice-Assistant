@@ -1,0 +1,7 @@
+.env
+api.py
+__pycache__/
+*.mp3
+*.wav
+pdf_db/
+uploaded.pdf
